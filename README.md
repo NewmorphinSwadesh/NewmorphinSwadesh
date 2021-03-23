@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Animesh Banerjee
 - 👀 I’m interested in making applications of iOS and android also using Flutter and Dart
 - 🌱 I’m currently learning Python with Django
-- 💞️ I’m looking to collaborate on ...
+<!---- 💞️ I’m looking to collaborate on ...--->
 - 📫 How to reach me 
 You can easily reach me via mail id  - animesh1998.swadesh@gmail.com
 
